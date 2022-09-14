@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663114625 source:c:\users\aluno\desktop\exercicios 13d09\impares\numerosimpares\main.c
+	<stdio.h>
+	<stdlib.h>
+
